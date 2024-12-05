@@ -1,36 +1,20 @@
 # Soldadura-Simulacion-GUI
 
-**Soldadura-Simulacion-GUI** es una herramienta intuitiva que facilita la simulación de procesos de soldadura. Desarrollada como una interfaz gráfica (GUI), permite a los usuarios gestionar archivos de entrada, configurar simulaciones con **CalculiX** y visualizar los resultados en **ParaView**.
+**Soldadura-Simulacion-GUI** es una herramienta intuitiva para la simulación de procesos de soldadura. Utiliza una interfaz gráfica (GUI) que permite a los usuarios gestionar archivos de entrada, configurar simulaciones con **CalculiX** y visualizar los resultados en **ParaView**.
 
-La aplicación está diseñada para investigadores, estudiantes y profesionales que trabajan con simulaciones en ingeniería mecánica y procesos térmicos. Ofrece opciones para analizar resultados, convertir formatos y simplificar flujos de trabajo en proyectos complejos.
-
----
-
-## 🎥 Video de Demostración
-
-[![Video de Demostración](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+### 🎯 Propósito
+La aplicación está dirigida a investigadores, estudiantes y profesionales en ingeniería mecánica y procesos térmicos. Su propósito es facilitar la simulación, análisis de resultados y conversión de formatos de salida, mejorando los flujos de trabajo en proyectos de simulación complejos.
 
 ---
 
 ## ✨ Características
 
-- Interfaz gráfica fácil de usar.
-- Gestión automática de carpetas y archivos para simulaciones (`Input`, `Run` y `Results`).
-- Configuración de ejecutables de **CalculiX** y **ParaView**.
-- Ejecución de simulaciones con opciones de log.
-- Conversión automática de archivos `.frd` a `.vtu`.
-- Visualización de resultados con ParaView.
-- Validación automática de archivos `.inp` (ASCII o binario).
-- Manejo de errores con mensajes claros y detallados para el usuario.
-
----
-
-## 📂 Estructura de Carpetas
-
-Durante el uso de la herramienta, se generan las siguientes carpetas:
-- **Input:** Almacena los archivos de entrada seleccionados.
-- **Run:** Contiene los archivos generados durante la simulación.
-- **Results:** Guarda los archivos convertidos listos para visualizar en ParaView.
+- **Interfaz gráfica fácil de usar**.
+- **Gestión automática de carpetas** (`Input`, `Run` y `Results`) para simular y guardar datos.
+- **Configuración automática de ejecutables** de **CalculiX** y **ParaView**.
+- **Ejecución de simulaciones** con generación de logs.
+- **Conversión automática** de archivos `.frd` a `.vtu`.
+- **Visualización** de resultados con ParaView.
 
 ---
 
@@ -41,7 +25,7 @@ Durante el uso de la herramienta, se generan las siguientes carpetas:
 - Descarga la última versión del archivo `.exe`.
 
 ### 2. Ejecutar la aplicación
-- No necesitas instalar Python ni dependencias.
+- **No necesitas instalar Python ni dependencias**.
 - Solo ejecuta el archivo `.exe` descargado.
 - Sigue las instrucciones dentro de la aplicación para realizar tus simulaciones.
 
@@ -54,9 +38,10 @@ Durante el uso de la herramienta, se generan las siguientes carpetas:
 2. **Bibliotecas de Python**:
    - `customtkinter`
    - `flask`
+   - Otras incluidas en `requerimientos.txt`.
 3. **Software adicional**:
-   - **CalculiX**: Necesitas el ejecutable `ccx.exe`.
-   - **ParaView**: Necesitas el ejecutable para la visualización.
+   - **CalculiX**: El ejecutable `ccx.exe` se encuentra en la carpeta raíz de este repositorio.
+   - **ParaView**: El ejecutable para visualizar los resultados se encuentra también en la carpeta raíz de este repositorio.
 
 ### Instalación del código fuente
 1. **Clona este repositorio**:
