@@ -20,6 +20,17 @@ La aplicación está diseñada para investigadores, estudiantes y profesionales 
 - Ejecución de simulaciones con opciones de log.
 - Conversión automática de archivos `.frd` a `.vtu`.
 - Visualización de resultados con ParaView.
+- Validación automática de archivos `.inp` (ASCII o binario).
+- Manejo de errores con mensajes claros y detallados para el usuario.
+
+---
+
+## 📂 Estructura de Carpetas
+
+Durante el uso de la herramienta, se generan las siguientes carpetas:
+- **Input:** Almacena los archivos de entrada seleccionados.
+- **Run:** Contiene los archivos generados durante la simulación.
+- **Results:** Guarda los archivos convertidos listos para visualizar en ParaView.
 
 ---
 
@@ -43,7 +54,6 @@ La aplicación está diseñada para investigadores, estudiantes y profesionales 
 2. **Bibliotecas de Python**:
    - `customtkinter`
    - `flask`
-   - Otras incluidas en `requirements.txt`.
 3. **Software adicional**:
    - **CalculiX**: Necesitas el ejecutable `ccx.exe`.
    - **ParaView**: Necesitas el ejecutable para la visualización.
