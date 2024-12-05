@@ -1,6 +1,8 @@
 # Soldadura-Simulacion-GUI
 
-**Soldadura-Simulacion-GUI** es una herramienta intuitiva que permite simular procesos de soldadura utilizando **CalculiX** y visualizar los resultados en **ParaView**. La aplicación está empaquetada como un ejecutable `.exe`, lo que significa que no necesitas instalar Python ni bibliotecas adicionales para usarla.
+**Soldadura-Simulacion-GUI** es una herramienta intuitiva que facilita la simulación de procesos de soldadura. Desarrollada como una interfaz gráfica (GUI), permite a los usuarios gestionar archivos de entrada, configurar simulaciones con **CalculiX** y visualizar los resultados en **ParaView**.
+
+La aplicación está diseñada para investigadores, estudiantes y profesionales que trabajan con simulaciones en ingeniería mecánica y procesos térmicos. Ofrece opciones para analizar resultados, convertir formatos y simplificar flujos de trabajo en proyectos complejos.
 
 ---
 
