@@ -7,6 +7,14 @@ La aplicación está dirigida a investigadores, estudiantes y profesionales en i
 
 ---
 
+## 🎥 Video de Demostración
+
+Para ver cómo utilizar la herramienta, consulta el siguiente video de demostración:
+
+[![Video de Demostración](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+
+---
+
 ## ✨ Características
 
 - **Interfaz gráfica fácil de usar**.
