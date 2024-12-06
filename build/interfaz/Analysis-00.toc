@@ -1,4 +1,4 @@
-(['D:\\Semestre9no\\RESIDENCIA\\PROYECTO\\DESARROLLO DE '
+(['D:\\Semestre9no\\RESIDENCIA\\PROYECTO\\DESARROLLO DE ' 
   'INTERFAZ\\Soldadura-Simulacion-GUI\\Soldadura-Simulacion-GUI\\Codigo_fuente\\interfaz.py'],
  ['D:\\Semestre9no\\RESIDENCIA\\PROYECTO\\DESARROLLO DE '
   'INTERFAZ\\Soldadura-Simulacion-GUI\\Soldadura-Simulacion-GUI\\Codigo_fuente'],
