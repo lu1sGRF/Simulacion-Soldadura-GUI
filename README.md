@@ -28,29 +28,30 @@ Para ver cómo utilizar la interfaz, consulta el siguiente video donde se muestr
 
 ## 📂 Estructura del Proyecto
 
+Estructura del Proyecto
 La siguiente estructura muestra los principales directorios y archivos del proyecto:
 
-.
-├── Codigo_fuente
-│   ├── Interfaz.py         # Código principal de la interfaz gráfica.
-│   ├── LOGO_LF.ico         # Ícono de la aplicación.
-│   ├── extensiones.txt     # Lista de extensiones soportadas.
-│   ├── requerimientos.txt  # Dependencias necesarias para ejecutar el proyecto.
-│
-├── Ejecutable_interfaz
-│   ├── Ejemplo_basico
-│   │   ├── extensiones.txt     # Prueba básica de funcionalidades.
-│   │   ├── interfaz.exe        # Ejecutable listo para usar.
-│   │   ├── requerimientos.txt  # Dependencias adicionales (si aplica).
-│
-├── Librerias/ccx2paraview
-│   ├── __init__.py         # Inicialización del módulo.
-│   ├── ccx2paraview.py     # Conversor de resultados de CalculiX a ParaView.
-│
-├── build_GUI/interfaz      # Recursos generados de la interfaz.
-├── .gitignore              # Archivos y carpetas a excluir del repositorio.
-├── LICENSE                 # Licencia del proyecto.
-├── README.md               # Documentación del proyecto (este archivo).
+Código_fuente/
+├── Interfaz.py         # Código principal de la interfaz gráfica
+├── LOGO_LF.ico         # Ícono de la aplicación
+├── extensiones.txt     # Lista de extensiones soportadas
+└── requerimientos.txt  # Dependencias necesarias para ejecutar el proyecto
+
+Ejecutable_interfaz/
+└── Ejemplo_basico/
+    ├── extensiones.txt     # Prueba básica de funcionalidades
+    ├── interfaz.exe        # Ejecutable listo para usar
+    └── requerimientos.txt  # Dependencias adicionales (si aplica)
+
+Librerias/ccx2paraview/
+├── __init__.py         # Inicialización del módulo
+└── ccx2paraview.py     # Conversor de resultados de CalculiX a ParaView
+
+build_GUI/interfaz      # Recursos generados de la interfaz
+.gitignore              # Archivos y carpetas a excluir del repositorio
+LICENSE                 # Licencia del proyecto
+README.md               # Documentación del proyecto
+
 
 --
 
