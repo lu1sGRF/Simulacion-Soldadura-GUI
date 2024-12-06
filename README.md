@@ -28,9 +28,9 @@ Para ver cómo utilizar la interfaz, consulta el siguiente video donde se muestr
 
 ## 📦 Cómo Descargar y Usar
 
-### 1. Descargar el ejecutable
-- Ve a la carpeta de **Ejecutable_interfaz**. de este repositorio: [Releases](https://github.com/tu_usuario/Soldadura-Simulacion-GUI/releases).
-- Descarga la última versión del archivo `.exe`.
+### 1. Descargar
+- Descarga este repositorio o solo la carpeta llamada [Ejecutable_interfaz]([https://github.com/tu_usuario/Soldadura-Simulacion-GUI/releases](https://github.com/lu1sGRF/Simulacion-Soldadura-GUI/tree/main/Ejecutable_intefaz)).
+- Ya descargada, descomprime la carpeta zip si fue el caso que descargaste el repositorio completo, si no es asi solo abre la carpeta **Ejecutable_interfaz**.
 
 ### 2. Ejecutar la aplicación
 - **No necesitas instalar Python ni dependencias**.
@@ -48,8 +48,8 @@ Para ver cómo utilizar la interfaz, consulta el siguiente video donde se muestr
    - `flask`
    - Otras incluidas en `requerimientos.txt`.
 3. **Software adicional**:
-   - **CalculiX**: El ejecutable `ccx.exe` se encuentra en la carpeta raíz de este repositorio.
-   - **ParaView**: El ejecutable para visualizar los resultados se encuentra también en la carpeta raíz de este repositorio.
+   - **CalculiX**: El ejecutable `ccx.exe` lo puedes encuentrar en este github la carpeta llamada .
+   - **ParaView**: El ejecutable para visualizar los resultados se encuentra en su pagina oficial de praview [Pagina oficial de descarga](https://www.paraview.org/download/)..
 
 ### Instalación del código fuente
 1. **Clona este repositorio**:
