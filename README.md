@@ -1,4 +1,4 @@
-# Soldadura-Simulacion-GUI
+# Simulacion-Soldadura-GUI
 
 **Soldadura-Simulacion-GUI** es una herramienta intuitiva para la simulación de procesos de soldadura. Utiliza una interfaz gráfica (GUI) que permite a los usuarios gestionar archivos de entrada, configurar simulaciones con **CalculiX** y visualizar los resultados en **ParaView**.
 
