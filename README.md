@@ -20,7 +20,7 @@ Para ver cómo utilizar la interfaz, consulta el siguiente video donde se muestr
 - **Interfaz gráfica fácil de usar**.
 - **Gestión automática de carpetas** (`Input`, `Run` y `Results`) para simular y guardar datos.
 - **Configuración automática de ejecutables** de **CalculiX** y **ParaView**.
-- **Ejecución de simulaciones** con generación de logs.
+- **Ejecución de simulaciones** con generación de logs o datos de la ejecución desde el CMD.
 - **Conversión automática** de archivos `.frd` a `.vtu`.
 - **Visualización** de resultados con ParaView.
 
@@ -39,10 +39,10 @@ La siguiente estructura muestra los principales directorios y archivos del proye
 - `requerimientos.txt`  # Dependencias necesarias para ejecutar el proyecto
 
 ## Ejecutable_interfaz/
-- `Ejemplo_basico/`
-  - `extensiones.txt`     # Prueba básica de funcionalidades
-  - `interfaz.exe`        # Ejecutable listo para usar
-  - `requerimientos.txt`  # Dependencias adicionales (si aplica)
+- `Ejemplo_basico/`     # Prueba básica y rapida para probar las funcionalidades de la interfaz
+- `extensiones.txt`     # Lista de extensiones soportada
+- `interfaz.exe`        # Ejecutable listo para usar
+- `requerimientos.txt`  # Dependencias adicionales
 
 ## Librerias/ccx2paraview/
 - `__init__.py`         # Inicialización del módulo
