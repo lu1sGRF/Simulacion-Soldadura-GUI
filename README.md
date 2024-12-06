@@ -77,7 +77,7 @@ La siguiente estructura muestra los principales directorios y archivos del proye
    - `flask`
    - Otras incluidas en `requerimientos.txt`.
 3. **Software adicional**:
-   - **CalculiX**: El ejecutable `ccx.exe` lo puedes encuentrar en este [github de CCX](https://github.com/PacoOMG2/Ccx-welding-simulation) en la carpeta llamada **Additive/02_Compiled/ccx/x64/install** se encuentra el ccxMKL.exe,
+   - **CalculiX**: El ejecutable `ccx.exe` lo puedes encuentrar en este [github de CCX](https://github.com/PacoOMG2/Ccx-welding-simulation) en la carpeta llamada **Additive/02_Compiled/ccx/x64/install** se encuentra el ccxMKL.exe.
    - NOTA: Se recomienda descargar la carpeta completa del ccx/x64/install
    - **ParaView**: El ejecutable para visualizar los resultados se encuentra en su [Pagina oficial de descarga](https://www.paraview.org/download/).
 
