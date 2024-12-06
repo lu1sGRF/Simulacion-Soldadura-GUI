@@ -9,7 +9,7 @@ La aplicación está dirigida a investigadores, estudiantes y profesionales en i
 
 ## 🎥 Video de utilización de la interfaz visual de simulación de soldadura de software libre
 
-Para ver cómo utilizar la interfaz, consulta el siguiente video donde se muestra desde la descarga, hasta la utilizacion de la interfaz completa:
+Para ver cómo utilizar la interfaz, consulta el siguiente video donde se muestra desde la descarga, hasta la utilización de la interfaz completa:
 
 [![Video de Demostración](https://img.youtube.com/vi/i02AnA2SZ4Y/maxresdefault.jpg)](https://www.youtube.com/watch?v=i02AnA2SZ4Y)
 
@@ -48,7 +48,7 @@ Para ver cómo utilizar la interfaz, consulta el siguiente video donde se muestr
    - `flask`
    - Otras incluidas en `requerimientos.txt`.
 3. **Software adicional**:
-   - **CalculiX**: El ejecutable `ccx.exe` lo puedes encuentrar en este github [CCX]((https://github.com/PacoOMG2/Ccx-welding-simulation)).  la carpeta llamada .
+   - **CalculiX**: El ejecutable `ccx.exe` lo puedes encuentrar en este [github de CCX](https://github.com/PacoOMG2/Ccx-welding-simulation) en la carpeta llamada **ccx_compilado**.
    - **ParaView**: El ejecutable para visualizar los resultados se encuentra en su [Pagina oficial de descarga](https://www.paraview.org/download/).
 
 ### Instalación del código fuente
