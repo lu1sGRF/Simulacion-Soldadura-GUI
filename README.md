@@ -7,9 +7,9 @@ La aplicación está dirigida a investigadores, estudiantes y profesionales en i
 
 ---
 
-## 🎥 Video de Demostración
+## 🎥 Video de utilización de la interfaz visual de simulación de soldadura de software libre
 
-Para ver cómo utilizar la herramienta, consulta el siguiente video de demostración:
+Para ver cómo utilizar la interfaz, consulta el siguiente video donde se muestra desde la descarga, hasta la utilizacion de la interfaz completa:
 
 [![Video de Demostración](https://img.youtube.com/vi/i02AnA2SZ4Y/maxresdefault.jpg)](https://www.youtube.com/watch?v=i02AnA2SZ4Y)
 
@@ -29,7 +29,7 @@ Para ver cómo utilizar la herramienta, consulta el siguiente video de demostrac
 ## 📦 Cómo Descargar y Usar
 
 ### 1. Descargar el ejecutable
-- Ve a la sección **Releases** de este repositorio: [Releases](https://github.com/tu_usuario/Soldadura-Simulacion-GUI/releases).
+- Ve a la carpeta de **Ejecutable_interfaz**. de este repositorio: [Releases](https://github.com/tu_usuario/Soldadura-Simulacion-GUI/releases).
 - Descarga la última versión del archivo `.exe`.
 
 ### 2. Ejecutar la aplicación
