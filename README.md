@@ -28,8 +28,6 @@ Para ver cómo utilizar la interfaz, consulta el siguiente video donde se muestr
 
 ## 📂 Estructura del Proyecto
 
-# Estructura del Proyecto
-
 La siguiente estructura muestra los principales directorios y archivos del proyecto:
 
 ## Código_fuente/
