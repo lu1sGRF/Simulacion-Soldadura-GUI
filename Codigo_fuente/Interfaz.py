@@ -840,33 +840,42 @@ class AppSimulacionSoldadura:
         secciones = [
             {
                 "titulo": "PASO 1: Seleccione la Carpeta Padre",
-                "contenido": """Seleccione un directorio donde se guardarán las carpetas de simulación y resultados:
+                "contenido": """Seleccione un directorio donde se guardarán las carpetas de los resultados de la simualción:
+
 - Haga clic en el botón **"Seleccionar Carpeta Padre"**.
-- Automáticamente se creará una carpeta llamada 'Simulacion' con subcarpetas 'Input' y 'Run'.""",
+- Automáticamente se creará una carpeta llamada 'Simulacion' que sera el lugar donde 
+  se guardaran todos los archivos de la simulación a ejecutar.""",
             },
             {
                 "titulo": "PASO 2: Seleccione los Archivos de Simulación",
-                "contenido": """Elija los archivos necesarios para la simulación:
+                "contenido": """Elija los archivos que necesite para la simulación:
+
 - Haga clic en el botón **"Seleccionar Archivos para la Simulación"**.
-- Estos archivos se copiarán automáticamente a la carpeta 'Input'.
+- Estos archivos se copiarán automáticamente a la carpeta 'Input', 
+  que se creo en la carpeta principal llamada "Simulación".
 - Si hay archivos existentes, podrá decidir si desea sobrescribirlos o conservarlos.""",
             },
             {
                 "titulo": "PASO 3: Seleccione el Archivo .inp",
                 "contenido": """El archivo .inp es esencial para la simulación:
+
 - Haga clic en el botón **"Seleccionar Archivo .inp"**.
 - La herramienta analizará el archivo para determinar si es ASCII o BINARIO.
-- Se mostrará un mensaje indicando si el archivo es compatible.""",
+- Para que el usuario determine si seguira la ejecución de la simulacipon si es BINARIO o ASCII.""",
             },
             {
                 "titulo": "PASO 4: Configure los Ejecutables",
                 "contenido": """Es necesario configurar los ejecutables de CalculiX y ParaView:
-- En el menú **"Configuraciones"**, seleccione **Ejecutable de CalculiX** y elija el archivo .exe correspondiente.
-- Seleccione **Ejecutable de ParaView** para configurar la herramienta de visualización.""",
+
+- En el menú **"Configuraciones"**, seleccione **Ejecutable de CalculiX** 
+  y elija el archivo .exe correspondiente.
+- Seleccione **Ejecutable de ParaView** para configurar la herramienta de visualización.
+- NOTA: Previamente deberia tener el ejecutable de calculix y paraview""",
             },
             {
                 "titulo": "PASO 5: Ejecute la Simulación",
                 "contenido": """Una vez configurados los pasos anteriores, ejecute la simulación:
+
 - Haga clic en el botón **"Ejecutar Simulación"**.
 - Puede elegir entre generar un archivo log o visualizar la simulación en CMD.
 - Los resultados se generarán en la carpeta **Run**.""",
@@ -874,19 +883,24 @@ class AppSimulacionSoldadura:
             {
                 "titulo": "PASO 6: Convierta Archivos FRD a VTU",
                 "contenido": """Para convertir los resultados a un formato compatible con ParaView:
+
 - Haga clic en el botón **"Convertidor de FRD a VTU"**.
-- Seleccione el archivo .frd generado.
+- En caso de que tenga mas de un frd en la carpeta Simulacion, seleccione el archivo .frd a generar.
+- Si en caso que solo tenga uno, se convertira el frd a Vtu de manera automatica, 
+  sin selecionar dicho frd
 - El archivo convertido se guardará en la carpeta **Results**.""",
             },
             {
                 "titulo": "PASO 7: Visualice los Resultados",
                 "contenido": """Después de convertir los archivos a VTU:
+
 - Haga clic en el botón **"Mostrar Resultados en ParaView"**.
 - El programa abrirá ParaView automáticamente con los resultados generados.""",
             },
             {
                 "titulo": "Notas Importantes",
                 "contenido": """- Asegúrese de configurar correctamente los ejecutables antes de iniciar cualquier simulación.
+
 - Verifique los permisos de escritura en las carpetas seleccionadas.
 - Consulte la documentación técnica para más información sobre los archivos necesarios.""",
             }
