@@ -1,5 +1,0 @@
-.inp
-.msh
-.flm
-.rad
-.mat
