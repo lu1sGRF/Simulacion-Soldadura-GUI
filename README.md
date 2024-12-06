@@ -52,7 +52,6 @@ La siguiente estructura muestra los principales directorios y archivos del proye
 ├── LICENSE                 # Licencia del proyecto.
 ├── README.md               # Documentación del proyecto (este archivo).
 
-
 --
 
 ## 📦 Cómo Descargar y Usar
