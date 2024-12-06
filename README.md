@@ -7,11 +7,11 @@ La aplicación está dirigida a investigadores, estudiantes y profesionales en i
 
 ---
 
-## 🎥 Video de Demostración
+## 🎥 Video de utilización de la interfaz
 
-Para ver cómo utilizar la herramienta, consulta el siguiente video de demostración:
+Para ver cómo utilizar la interfaz, pueden consultar el siguiente video, donde se explica a detalle desde la descarga, hasta la ejecución de todo el proceso de la interfaz:
 
-[![Video de Demostración](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/i02AnA2SZ4Y?si=mUATBCGcTi3uz1j0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
