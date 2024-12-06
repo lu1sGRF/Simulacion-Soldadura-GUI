@@ -31,6 +31,9 @@ Para ver cómo utilizar la interfaz, consulta el siguiente video donde se muestr
 Estructura del Proyecto
 La siguiente estructura muestra los principales directorios y archivos del proyecto:
 
+Estructura del Proyecto
+La siguiente estructura muestra los principales directorios y archivos del proyecto:
+
 Código_fuente/
 ├── Interfaz.py         # Código principal de la interfaz gráfica
 ├── LOGO_LF.ico         # Ícono de la aplicación
@@ -51,7 +54,6 @@ build_GUI/interfaz      # Recursos generados de la interfaz
 .gitignore              # Archivos y carpetas a excluir del repositorio
 LICENSE                 # Licencia del proyecto
 README.md               # Documentación del proyecto
-
 
 --
 
