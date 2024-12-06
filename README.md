@@ -2,7 +2,7 @@
 
 **Soldadura-Simulacion-GUI** es una herramienta intuitiva para la simulación de procesos de soldadura. Utiliza una interfaz gráfica (GUI) que permite a los usuarios gestionar archivos de entrada, configurar simulaciones con **CalculiX** y visualizar los resultados en **ParaView**.
 
-### 🎯 Propósito
+### Propósito
 La aplicación está dirigida a investigadores, estudiantes y profesionales en ingeniería mecánica y procesos térmicos. Su propósito es facilitar la simulación, análisis de resultados y conversión de formatos de salida, mejorando los flujos de trabajo en proyectos de simulación complejos.
 
 ---
@@ -48,7 +48,7 @@ Para ver cómo utilizar la interfaz, consulta el siguiente video donde se muestr
    - `flask`
    - Otras incluidas en `requerimientos.txt`.
 3. **Software adicional**:
-   - **CalculiX**: El ejecutable `ccx.exe` lo puedes encuentrar en este github la carpeta llamada .
+   - **CalculiX**: El ejecutable `ccx.exe` lo puedes encuentrar en este github [CCX]([https://www.paraview.org/download/](https://github.com/PacoOMG2/Ccx-welding-simulation)).  la carpeta llamada .
    - **ParaView**: El ejecutable para visualizar los resultados se encuentra en su [Pagina oficial de descarga](https://www.paraview.org/download/).
 
 ### Instalación del código fuente
