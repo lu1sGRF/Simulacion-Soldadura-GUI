@@ -48,7 +48,7 @@ Para ver cómo utilizar la interfaz, consulta el siguiente video donde se muestr
    - `flask`
    - Otras incluidas en `requerimientos.txt`.
 3. **Software adicional**:
-   - **CalculiX**: El ejecutable `ccx.exe` lo puedes encuentrar en este github [CCX]([https://www.paraview.org/download/](https://github.com/PacoOMG2/Ccx-welding-simulation)).  la carpeta llamada .
+   - **CalculiX**: El ejecutable `ccx.exe` lo puedes encuentrar en este github [CCX]((https://github.com/PacoOMG2/Ccx-welding-simulation)).  la carpeta llamada .
    - **ParaView**: El ejecutable para visualizar los resultados se encuentra en su [Pagina oficial de descarga](https://www.paraview.org/download/).
 
 ### Instalación del código fuente
